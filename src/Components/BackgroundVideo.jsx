@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import classes from "./BackgroundVideo.module.css";
+import thumbnail from "./media/Vaccinator.png";
 
 const BackgroundVideo = () => {
   const videoSource =
