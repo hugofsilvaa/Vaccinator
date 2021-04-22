@@ -18,9 +18,9 @@
     bottom: 0;
     z-index: 999;
     width: 100%;
-    height: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    /* height: auto; */
+    /* padding-top: 30px; */
+    /* padding-bottom: 30px; */
     align-items: center;
   }
 
@@ -33,12 +33,6 @@
   .NavBar {
     flex-wrap: wrap;
     flex-direction: column;
-  }
-  .form h2 {
-    margin-top: -200px;
-  }
-  .formclass {
-    margin-top: 90px;
   }
 }
 
