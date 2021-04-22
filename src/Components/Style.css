@@ -160,7 +160,7 @@ hr {
   color: rgb(53, 49, 49);
 }
 .form {
-  height: 82vh;
+  height: 76vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
